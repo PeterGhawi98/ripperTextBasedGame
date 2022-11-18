@@ -1,0 +1,2 @@
+# RIPPER
+Ripper is an interactive text based CSI game created to challenge individuals on their ability to solve crimes. Players are provided with information and clues on how to solve the cases which lead to the same criminal who wants to take revenge on those who gave false witness against her father. Her father committed suicide in prison because he claimed to be innocent of the crime he was accused of committing.
